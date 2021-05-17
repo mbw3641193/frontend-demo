@@ -1,9 +1,14 @@
 import React from 'react';
+import '../../App.css';
 
-function Cats(){
-    return<>
-      Cats_fn
-    </>
+class Cats extends React.Component {
+    render() {
+        return <>
+            <div>
+                Cats_class
+        </div>
+        </>
+    }
 }
 
 export default Cats;
