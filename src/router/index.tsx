@@ -7,6 +7,7 @@ const App: React.FC = () => {
     return (
         <HashRouter>
             <NavLink to='/hooks-component'>hooks-component</NavLink>
+            <b className="divider">|</b>
             <NavLink to='/class-component'>class-component</NavLink>
             <Switch>
                 <Redirect path='/' exact to='/hooks-component'></Redirect>

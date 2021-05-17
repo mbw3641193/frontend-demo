@@ -1,10 +1,16 @@
-# 这是一个react demo。其中包含两种实现方式(class and hooks)。通过路由可切换。
+# this is a react demo.
+# There are two ways to implements it(class and hooks).
+# click router to change it.
 
-In the project directory, you can run:
+first , you should :
+
+### `npm i`
+
+then, you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+finally, Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
