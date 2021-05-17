@@ -1,4 +1,4 @@
-# this is a react demo.
+# this is a react demo with Typescript.
 # There are two ways to implements it(class and hooks).
 # click router to change it.
 
